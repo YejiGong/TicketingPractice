@@ -1,0 +1,8 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/YejiGong/TicketingPractice-back
+	branch = main
+[submodule "front"]
+	path = front
+	url = https://github.com/YejiGong/TicketingPractice-front
+	branch = main
